@@ -17,7 +17,8 @@
     "windows": [
       {
         "title": "tradinghero-desktop",
-        "url": "https://tradinghero.com"
+        "url": "https://tradinghero.com",
+        "maximized": true
       }
     ],
     "security": {
