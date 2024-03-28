@@ -1,7 +1,5 @@
 {
   "build": {
-    "devPath": "../src",
-    "distDir": "../src",
     "withGlobalTauri": true
   },
   "package": {
